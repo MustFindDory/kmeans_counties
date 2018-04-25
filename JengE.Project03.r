@@ -1,3 +1,4 @@
+#I am adding a comment
 # Name: Eric Jeng
 # Course: 44-149 Scientific Computing
 # Assignment # Project #03

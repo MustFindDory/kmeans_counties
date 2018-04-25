@@ -9,7 +9,7 @@
 # agree to abide by the rules expressed in the CSIS Academic Honest Policy
 
 census <- read.csv('us_census.csv')
-n <- 12
+n <- 8
 iters <- 12
 
 contiguous <- census[!census$state %in% c('AK', 'HI', 'PR'), ]
